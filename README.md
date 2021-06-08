@@ -1,24 +1,11 @@
-# clxone-ui
+# ranck-ui
 
-## Project setup
-```
-yarn install
-```
+vue 组件库
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 搭建过程
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 创建文件夹
+- 调整目录
+- 设置 vue.config.js
+- 打包指令
+- 编写组价，index.js 组件实现 install，组件批量安装
